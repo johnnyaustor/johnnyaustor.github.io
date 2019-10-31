@@ -1,0 +1,30 @@
+/* Add your css styles here */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.col {
+  flex: 0 0 25%;
+  max-width: 25%;
+  border: 1px solid;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+@media (max-width: 720px) {
+  .col {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media (max-width: 360px) {
+  .col {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+::after,
+::before {
+  box-sizing: border-box;
+}
