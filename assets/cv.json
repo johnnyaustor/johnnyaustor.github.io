@@ -1,0 +1,229 @@
+{
+  "identity": {
+    "name": "Agus Triantoro",
+    "role": "Backend Engineer",
+    "contact": {
+      "email": "soen.agustri@gmail.com",
+      "phone": "085740527725"
+    },
+    "birthday": "Aug, 27, 1993",
+    "address": {
+      "street": "Apt Green Park View",
+      "subDistrict": "Duri Kosambi",
+      "district": "Cengkareng",
+      "city": "Jakarta Barat",
+      "province": "DKI Jakarta",
+      "postCode": "11750"
+    },
+    "about": "More than 5th year work as Software Engineer focus on Backend Engineer experience using Java and do learning to using NodeJs | Golang. I love to learn and sharing knowledge, in several times Im sharing on webinar about REST API, Microservice etc",
+    "socialNetwork": [
+      {
+        "name": "Agus Triantoro",
+        "url": "https://www.linkedin.com/in/agustriantoro",
+        "icon": "<i class=\"fab fa-linkedin\"></i>"
+      },
+      {
+        "name": "Johnny Austor Production",
+        "url": "https://youtube.com/c/johnnyaustor",
+        "icon": "<i class=\"fab fa-youtube-square\"></i>"
+      },
+      {
+        "name": "@johnnyaustor",
+        "url": "https://github.com/johnnyaustor",
+        "icon": "<i class=\"fab fa-git-alt\"></i>"
+      },
+      {
+        "name": "@i.agustriii",
+        "url": "https://www.instagram.com/i.agustriii",
+        "icon": "<i class=\"fab fa-instagram-square\"></i>"
+      }
+    ],
+    "imageUrl": ""
+  },
+  "education": [
+    {
+      "ordinal": 2,
+      "periode": "2011-2015",
+      "level": "S1",
+      "major": "Sistem Informasi",
+      "company": "STIKOM Yos Sudarso",
+      "location": "Purwokerto",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 1,
+      "periode": "2008-2011",
+      "level": "SMK",
+      "major": "Teknik Komputer Jaringan",
+      "company": "SMK PGRI 1",
+      "location": "Ngawi",
+      "imageUrl": ""
+    }
+  ],
+  "workExperience": [
+    {
+      "ordinal": 3,
+      "periode": "Nov 2021 - Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "role": "Software Engineer",
+      "company": "PT. Dkatalis Digital Lab",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 2,
+      "periode": "Feb 2018 - Oct 2021",
+      "role": "Software Developer",
+      "company": "PT. Code Development Indonesia",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 1,
+      "periode": "Jan 2016 - Feb 2018",
+      "role": "Software Developer",
+      "company": "PT. Multicom Persada International",
+      "imageUrl": ""
+    }
+  ],
+  "projectExperience": [
+    {
+      "ordinal": 9,
+      "periode": "Dec 2021 - Jan 2022",
+      "company": "Alterra Academy x BNI Bootcamp",
+      "aliasName": "",
+      "technology": "Theacing Java Fundamental, MongoDB, PostgreSQL, Microservice Spring Framework",
+      "fitures": "as a mentor on bootcamp 1 month",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 8,
+      "periode": "Jul 2021 - Oct 2021",
+      "company": "PT. Prudential Life Assurance",
+      "aliasName": "Prudential",
+      "technology": "Microservice, Spring Boot, Hibernate, JPA, PostgreSQL",
+      "fitures": "Report Management",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 7,
+      "periode": "Mar 2021 - Jun 2021",
+      "company": "PT. Tiga Daya Digital Indonesia",
+      "aliasName": "EKSAD",
+      "technology": "Spring Boot, Hibernate, JPA, PostgreSQL",
+      "fitures": "Report Management",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 6,
+      "periode": "Sep 2020 - Oct 2021",
+      "company": "PT Fastana Logistik Indonesia",
+      "aliasName": "Kapal Api Group",
+      "technology": "Microservice Java Spring Boot, Hibernate, JPA, PostgreSQL, MongoDB, AWS, Docker Container",
+      "fitures": "Logistic App",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 5,
+      "periode": "Jan 2021 - Jun 2021",
+      "company": "PT Axiata Digital Services Indonesia",
+      "aliasName": "MyBoost",
+      "technology": "NodeJs, ExpressJs, PostgreSQL, Keycloak",
+      "fitures": "API Tritama, Authentication with keycloak",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 4,
+      "periode": "Des 2019 - Des 2020",
+      "company": "PT Axiata Digital Services Indonesia",
+      "aliasName": "MyBoost",
+      "technology": "Spring Boot, Hibernate, JPA, Gateway Zull, Load Balancer Eureka, Config Server, Microserices, Elastic Searh, S3, Oracle, PostgreSQL Docker, Jenkins, AWS, Jira, BitBucket",
+      "fitures": "Enhance Core API, 22 Service",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 3,
+      "periode": "Mar 2019 - Nov 2019",
+      "company": "PT Adira Finance",
+      "aliasName": "Adira",
+      "technology": "Java Framwork Code Id, Angular 7, PostgreSQL, GitLab, Java, Windows Server, Agile",
+      "fitures": "Dealer Order System, Content Management System (CMS), Mapping User, Promotion Push Notification, Send Email, Auto Suspend Service, SMS",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 2,
+      "periode": "Sep 2018 - Apr 2019",
+      "company": "PT Asuransi Jasa Indonesia",
+      "aliasName": "Jasindo",
+      "technology": "Java Framwork Code Id, Angular 6, PostgreSQL, GitLab, Linux, Agile",
+      "fitures": "Partner Management, Car Insurance, Fire Insurance, Travel Insurance, Family Insurance, Holiday Insurance, Send Email, Point Dashboard, Doku Payment Gateway, Content Management System (CMS), User Menu Access",
+      "imageUrl": ""
+    },
+    {
+      "ordinal": 1,
+      "periode": "Mar 2018 - Sep 2018",
+      "company": "PT Asuransi Jasa Indonesia",
+      "aliasName": "Jasindo",
+      "technology": "Java Framwork Code Id, Angular 5, PostgreSQL, GitLab, Linux, Agile",
+      "fitures": "Collaboration, Content Management System (CMS), Send Email, Mapping User",
+      "imageUrl": ""
+    }
+  ],
+  "productDevelopment": [
+    {
+      "ordinal": 8,
+      "periode": "Jan 2022 - Now",
+      "name": "Joint Finance Syariah",
+      "description": "Loan Application for Syariah, Develop by DKatalis Engineer, Tribe JFS, Squad Perseus.",
+      "technology": "Java Spring Boot, Redis, MySQL, Kafka, Gitlab, GCP"
+    },
+    {
+      "ordinal": 7,
+      "periode": "Nov - Dec 2021",
+      "name": "Jago Syariah",
+      "description": "Bank Jago Application for Syariah, Develop by DKatalis Engineer, Tribe LFS, Squad Sirius.",
+      "technology": "JavaScript, HapiJS, MongoDB, JestJS, GCP, Jira, Gitlab"
+    },
+    {
+      "ordinal": 6,
+      "periode": "2020 - Now",
+      "name": "Generator Spring Boot & Angular",
+      "description": "Generate Rest API CRUD Spring Boot (Entity, Repository, Service, Controller, DTO, ExceptionInterceptor) & Angular (Model, Serivce, Module) from already Database",
+      "technology": "Java, SQLite, PostgreSQL, MySQL"
+    },
+    {
+      "ordinal": 5,
+      "periode": "2017",
+      "name": "Inventory & Scheduling - Mugen",
+      "technology": "VB. Net 2013, MySQL"
+    },
+    {
+      "ordinal": 4,
+      "periode": "2016",
+      "name": "Pembagian Jatah Makan Pabrik - Mugen",
+      "technology": "VB.Net SQL & RFID"
+    },
+    {
+      "ordinal": 3,
+      "periode": "2016",
+      "name": "System Rapor K13 Rev15 SMK - Mugen",
+      "technology": "PHP MySQL"
+    },
+    {
+      "ordinal": 2,
+      "periode": "2016",
+      "name": "System Computer Base Test - Mugen",
+      "technology": "PHP MySQL"
+    },
+    {
+      "ordinal": 1,
+      "periode": "2015",
+      "name": "System Rapor K13 SMK Purwokerto",
+      "technology": "VB.Net MySQL"
+    }
+  ],
+  "skillDevelopment": {
+    "programmingLanguages": ["Java", "JavaScript", "Golang"],
+    "frameworks": ["Spring Boot", "Spring Cloud", "Hibernate", "Echo", "Gorm", "NodeJs", "ExpressJs", "Angular", "ReactJs"],
+    "architecture": ["Microservice", "Event Driven", "Monolith", "Clean Code Principles", "Design Pattern Gang Of Four (GOF)"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    "other": ["RabbitMQ", "Kafka", "Docker", "NGINX", "Git Versioning", "Agile", "Jira", "Assana", "Adobe Illustrator", "Adobe Photoshop"]
+  }
+}
